@@ -1,0 +1,7 @@
+graph G {
+    M -- D
+    M -- S
+    D -- P
+    P -- G
+    T -- G
+}

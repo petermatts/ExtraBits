@@ -1,0 +1,8 @@
+# compilation outputs
+**/*.exe
+**/*.exp
+**/*.lib
+**/*.o
+
+# reference
+Refs
